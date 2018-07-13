@@ -10,7 +10,7 @@ class App extends React.Component {
             <div>
                 <h1>Welcome to Paul's app!</h1>
                 <p>
-                    This is the App component.
+                    This is the second time I am editing this!
                 </p>
             </div>
         );
